@@ -1,9 +1,37 @@
 body {
     background-color: #5e5353;
+	margin: 2cm 4cm 3cm 4cm;
+}
+li{
+	display: inline;
+}
+a {
+    padding: 8px;
+    background-color: #993333;
+}
+li a {
+    color: #ffcc00;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 h1{
-	
+ color: #ffcc00; 
 }
 p{
-	
+ color: #ffcc00;
+ font-family: Courier;
+}
+.center {
+    text-align: center;
+    border: 3px solid green;
+}
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 100%%;
 }
