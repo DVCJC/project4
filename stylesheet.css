@@ -22,10 +22,6 @@ p{
  color: #ffcc00;
  font-family: Courier;
 }
-.center {
-    text-align: center;
-    border: 3px solid green;
-}
 img.center {
     display: block;
     margin: 0 auto;
